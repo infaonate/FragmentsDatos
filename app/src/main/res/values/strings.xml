@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentsDatos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_desde_fragment_2">Texto desde fragment 2:</string>
+    <string name="intro_texto_para_fragment_2">Introduce el texto para el fragment 2:</string>
+    <string name="enviar_fragment_2">Enviar a fragment 2</string>
+    <string name="intro_text_para_fragment_1">Introduce el texto para fragment 1:</string>
+    <string name="enviar_fragment_1">Enviar a Fragment 1</string>
+    <string name="mostrar_texto_fragment_1">El texto de fragment 1 aparece aqui:</string>
+    <string name="historial_mensajes">Este es el historial de mensajes:</string>
+    <string name="fragment_1">Mostrar fragment 1</string>
+    <string name="fragment_2">Mostrar fragment 2</string>
+</resources>
